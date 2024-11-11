@@ -6,7 +6,7 @@ categories:
   - Security
 ---
 
-To protect sensitive information in API communication, RSA encryption is can be used.
+> To protect sensitive information in API communication, RSA encryption is can be used.
 And redis helps manage keys quickly and efficiently.
 
 ### 서비스를 개발할 때, 성능적인 고민도 분명 필요하지만 API 통신에 이용되는 고객의 민감정보를 어떻게 하면 더 잘 지켜낼 수 있을지도 매우 중요한 고민 포인트이다.

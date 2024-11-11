@@ -6,8 +6,8 @@ categories:
   - Cache
 ---
 
-Efficiently manage hierarchical data by leveraging Redis caching to improve performance and simplify maintenance.
-Avoid repetitive executions of high-cost queries/logic per client request.
+> Efficiently manage hierarchical data by leveraging Redis caching to improve performance and simplify maintenance.
+Avoid repetitive executions of high-cost queries/logic.
 
 계층형(카테고리 성) 데이터와 캐싱
 

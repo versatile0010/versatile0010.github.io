@@ -7,7 +7,7 @@ categories:
   - Cowork
 ---
 
-By providing detailed questions, we can minimize response time and reduce interruptions.
+> By providing detailed questions, we can minimize response time and reduce interruptions.
 
 ![image](https://github.com/versatile0010/versatile0010.github.io/assets/96612168/e19233dd-407d-4652-a67d-03caf1c50c7f)
  
