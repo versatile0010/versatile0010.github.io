@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "I wonder why, I wonder how."
 title_separator          : "-"
-subtitle                 : "logging" # site tagline that appears below site title in masthead
+subtitle                 : "A journey through everyday wonders." # site tagline that appears below site title in masthead
 name                     : "Jaehyeon Lee"
 description              : "Software Engineer (Backend)"
 url                      : "https://versatile0010.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaehyeon"
+  name             : "Jaehyeon Lee"
   avatar           : "/assets/test.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Backend Engineer"
+  bio              : "Software Engineer (Backend)"
   location         : "Seoul, South korea"
   email            : "wogusn@gmail.com"
   links:
