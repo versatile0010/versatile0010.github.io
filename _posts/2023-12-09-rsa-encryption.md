@@ -1,5 +1,5 @@
 ---
-title: " 🔐 RSA 암호화로 API 통신 강화하기 (Spring/Java/Redis)"
+title: " 🔐 Enhancing API Security with RSA Encryption in Spring/Java and Redis "
 layout: single
 classes: wide
 categories:

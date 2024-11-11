@@ -1,5 +1,5 @@
 ---
-title: " 📨  비동기 커뮤니케이션 "
+title: " 📨 Coworking: Asynchronous Communication "
 layout: single
 classes: wide
 categories:

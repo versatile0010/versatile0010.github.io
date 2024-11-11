@@ -1,5 +1,5 @@
 ---
-title: " 🌲 계층형 데이터를 효율적으로 다루기!  (with Redis )"
+title: " 🌲 Management of Hierarchical Data with Redis Caching "
 layout: single
 classes: wide
 categories:

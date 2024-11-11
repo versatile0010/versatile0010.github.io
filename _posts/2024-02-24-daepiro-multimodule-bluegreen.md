@@ -1,5 +1,5 @@
 ---
-title: " 🛩️ 멀티모듈 구조로 전환 및 blue-green 배포 적용기"
+title: " 🛩️ Monolithic to Multi-Module Architecture "
 layout: single
 classes: wide
 categories:
