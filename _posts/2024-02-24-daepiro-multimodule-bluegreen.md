@@ -7,6 +7,9 @@ categories:
   - SideProject
 ---
 
+The Daepiro backend started as a monolithic application, chosen for its simplicity and quick development time.
+However, as the project grew, issues such as unpredictable impact of changes, increased management complexity, and frequent code duplication surfaced.
+
 ## 🚛 멀티 모듈 구조로 이사가기!
  
 ### 1. 기존 모놀리틱(Monolithic) 구조에서 느낀 문제점

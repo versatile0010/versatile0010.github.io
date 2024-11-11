@@ -9,6 +9,8 @@ classes: wide
 last_modified_at: now
 ---
 
+Using TestContainers allows developers to create reliable test environments that mimic production.
+
 ### 사이드 프로젝트, 뒤늦은 테스트 환경 구축기 (with. TestContainer)
 
 더 빠르게 달리기 위해 잠깐 멈춘다..
