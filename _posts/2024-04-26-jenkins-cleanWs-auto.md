@@ -1,5 +1,5 @@
 ---
-title: " 🧹 How to disable automatic cleanup in jenkins?"
+title: " 🧹 [ko] How to disable automatic cleanup in jenkins?"
 
 categories: 
   - infra
@@ -7,6 +7,8 @@ layout: single
 classes: wide
 last_modified_at: now
 ---
+
+젠킨스 auto - Workspace disable 하는법
 
 > Jenkins automatically cleans up old workspaces using WorkspaceCleanupThread to manage disk space.
 This happens periodically, even without the cleanWs() command in your pipeline, ensuring efficient disk space usage.

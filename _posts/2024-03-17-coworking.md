@@ -1,11 +1,13 @@
 ---
-title: " 📨 Coworking: Asynchronous Communication "
+title: " 📨 [ko] Coworking: Asynchronous Communication "
 layout: single
 classes: wide
 categories:
   - Communication
   - Cowork
 ---
+
+커뮤니케이션도 비동기로 최적화해보자.
 
 > By providing detailed questions, we can minimize response time and reduce interruptions.
 

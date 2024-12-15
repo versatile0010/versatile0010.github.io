@@ -1,5 +1,5 @@
 ---
-title: " 🛩️ Monolithic to Multi-Module Architecture "
+title: " 🛩️ [ko] Monolithic to Multi-Module Architecture "
 layout: single
 classes: wide
 categories:
@@ -7,9 +7,9 @@ categories:
   - SideProject
 ---
 
-> As the project grew, issues such as unpredictable impact of changes, increased management complexity, and frequent code duplication surfaced.
-
 ## 🚛 멀티 모듈 구조로 이사가기!
+
+> As the project grew, issues such as unpredictable impact of changes, increased management complexity, and frequent code duplication surfaced.
  
 ### 1. 기존 모놀리틱(Monolithic) 구조에서 느낀 문제점
 

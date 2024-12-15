@@ -1,15 +1,15 @@
 ---
-title: " 🌲 Management of Hierarchical Data with Redis Caching "
+title: " 🌲 [ko] Management of Hierarchical Data with Redis Caching "
 layout: single
 classes: wide
 categories:
   - Cache
 ---
 
+계층형(카테고리 성) 데이터와 캐싱
+
 > Efficiently manage hierarchical data by leveraging Redis caching to improve performance and simplify maintenance.
 Avoid repetitive executions of high-cost queries/logic.
-
-계층형(카테고리 성) 데이터와 캐싱
 
 
 오늘 포스팅 할 내용은 계층형 데이터를 레디스 캐시를 이용하여 효율적으로 개선했던 경험에 대해서 간단하게 후기를 남기려고 합니다.
