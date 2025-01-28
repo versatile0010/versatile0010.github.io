@@ -127,9 +127,9 @@ MySQL performs an Index Range Scan, making the query run fast in under 0.7 secon
 
 #### Conclusion
 
-- Use Explicit Conditions
-  - Avoid using Row Constructors for tuple comparisons with inequalities. Instead, decompose the conditions. This helps MySQL’s optimizer use indexes effectively.
-- Always use EXPLAIN to understand query plan
+- **Use Explicit Conditions**
+  - Avoid using `Row Constructors` for tuple comparisons with inequalities. Instead, decompose the conditions. This helps MySQL’s optimizer use indexes effectively.
+- **Always use `EXPLAIN` to understand query plan**
   - Before using any query, use EXPLAIN ANALYZE to see the query plan.
   - Ensure that indexes are being used as expected.
 
