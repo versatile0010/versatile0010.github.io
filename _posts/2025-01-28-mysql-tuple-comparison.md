@@ -9,7 +9,9 @@ classes: wide
 last_modified_at: now
 ---
 
-Using tuple comparison-based queries in MySQL can cause unexpected performance issues. (very slow)
+**Using tuple comparison-based queries in MySQL can cause unexpected performance issues. (very slow)**
+
+![image](https://github.com/user-attachments/assets/d4b2d5cf-ecbf-4a22-9c2e-505ac5d08129)
 
 #### Row Constructor
 
