@@ -1,5 +1,5 @@
 ---
-title: " ⏩ [en] MySQL Tuple Comparison (Row Constructor): Use with Caution "
+title: " 📘 [en] MySQL Tuple Comparison (Row Constructor): Use with Caution "
 
 categories:
   - MySQL
