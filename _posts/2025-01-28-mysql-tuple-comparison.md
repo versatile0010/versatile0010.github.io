@@ -15,7 +15,7 @@ Using tuple comparison-based queries in MySQL can cause unexpected performance i
 
 - In MySQL, you can group multiple columns into a single tuple-like value using the ROW(col1, col2, col3, ...) or (col1, col2, ...) syntax for comparison.
 
-```mysql
+```sql
 SELECT *
 FROM your_table_name
 WHERE (col1, col2) = (x, y);
@@ -54,7 +54,7 @@ create index idx_article_id_parent_comment_id_comment_id
 
 #### Case 1. tuple comparison (slow case)
 
-```mysql
+```sql
 explain analyze
 select comment.comment_id,
        comment.parent_comment_id,
@@ -72,7 +72,7 @@ limit 30;
 
 
 - Result
-```mysql
+```sql
 -> Limit: 30 row(s)  (cost=542979 rows=30) (actual time=8620..8620 rows=30 loops=1)
 -> Filter: ((`comment`.comment_id,`comment`.parent_comment_id) > (142539921307124354,142539921307124350))  (cost=542979
 rows=4.01e+6) (actual time=8620..8620 rows=30 loops=1)
@@ -87,7 +87,7 @@ The tuple comparison (a, b) > (x, y) can be decomposed into (a > x) OR (a = x AN
 
 ### Case 2. Decomposed Conditions (fast case)
 
-```mysql
+```sql
 explain analyze
 select comment.comment_id,
        comment.parent_comment_id,
@@ -109,7 +109,7 @@ limit 30;
 
 
 - Result
-```mysql
+```sql
 -> Limit: 30 row(s)  (cost=416 rows=30) (actual time=0.252..0.727 rows=30 loops=1)
 -> Index range scan on comment using idx_article_id_parent_comment_id_comment_id over (article_id = 1 AND
 parent_comment_id = 142539921307124354 AND 142539921307124350 < comment_id) OR (article_id = 1 AND 142539921307124354 <
