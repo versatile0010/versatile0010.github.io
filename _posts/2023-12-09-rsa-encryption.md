@@ -6,6 +6,11 @@ categories:
   - Security
 ---
 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/9e02c973-31b7-4f73-bbbe-855ceec7667f" alt="image" width="600">
+</div>
+
+
 > To protect sensitive information in API communication, RSA encryption is can be used.
 And redis helps manage keys quickly and efficiently.
 
