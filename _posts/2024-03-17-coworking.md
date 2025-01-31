@@ -11,9 +11,9 @@ categories:
 
 > By providing detailed questions, we can minimize response time and reduce interruptions.
 
-![image](https://github.com/versatile0010/versatile0010.github.io/assets/96612168/e19233dd-407d-4652-a67d-03caf1c50c7f)
- 
-Q. 다음 중 개발자가 실무를 하면서 가장 골치아파하는(?) 고민은 무엇일까요? 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/d5bfbe36-359f-41af-85e6-1effa4a28569" alt="image" width="600">
+</div>
 
 ```
 1. “아.. 이거 쿼리가 너무 느릴 것 같은데…”
