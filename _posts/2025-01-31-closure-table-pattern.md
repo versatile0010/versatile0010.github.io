@@ -90,8 +90,8 @@ from closure
 where descendant = 'D' and depth = 1
 ```
 
-While closure tables make SELECT queries fast and easy, INSERT and UPDATE become more complex.
-
 But always remember: there is no silver bullet.
+
+While closure tables make SELECT queries fast and easy, INSERT and UPDATE become more complex.
 
 Choose the best approach based on your service needs.
