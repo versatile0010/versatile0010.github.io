@@ -10,12 +10,15 @@ last_modified_at: now
 
 젠킨스 auto - Workspace disable 하는법
 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/03a7bc85-8930-4bd1-a4eb-cb334b8c6188" alt="image" width="600">
+</div>
+
+
 > Jenkins automatically cleans up old workspaces using WorkspaceCleanupThread to manage disk space.
 This happens periodically, even without the cleanWs() command in your pipeline, ensuring efficient disk space usage.
 
 ### Jenkins workspace
-
-![image](https://github.com/versatile0010/versatile0010.github.io/assets/96612168/ccd3eced-b456-4dde-9ebd-27941fb3dcb9)
 
 젠킨스(Jenkins) 에서는 각각의 job build process 마다 고유한 workspace 을 생성하여 사용합니다.
 
