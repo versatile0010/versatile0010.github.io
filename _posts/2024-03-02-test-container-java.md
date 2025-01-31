@@ -9,6 +9,10 @@ classes: wide
 last_modified_at: now
 ---
 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/c4b53e76-1f71-4c1f-b299-a719f26e0ff8" alt="image" width="600">
+</div>
+
 사이드 프로젝트, 뒤늦은 테스트 환경 구축기 (with. TestContainer)
 
 > Using TestContainers allows developers to create reliable test environments that mimic production.
