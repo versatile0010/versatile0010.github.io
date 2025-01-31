@@ -15,6 +15,8 @@ last_modified_at: now
     <img src="https://github.com/user-attachments/assets/b85a097a-3b09-4546-b034-7e47e990bbe0" alt="image" width="600">
 </div>
 
+<br>
+
 #### Row Constructor
 
 - In MySQL, you can group multiple columns into a single tuple-like value using the ROW(col1, col2, col3, ...) or (col1, col2, ...) syntax for comparison.

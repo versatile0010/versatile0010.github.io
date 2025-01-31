@@ -6,11 +6,13 @@ categories:
   - Cache
 ---
 
+계층형(카테고리 성) 데이터와 캐싱
+
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/0eaf9371-5f1a-4d40-a8f5-7b9855d00d1a" alt="image" width="600">
 </div>
 
-계층형(카테고리 성) 데이터와 캐싱
+<br>
 
 > Efficiently manage hierarchical data by leveraging Redis caching to improve performance and simplify maintenance.
 Avoid repetitive executions of high-cost queries/logic.

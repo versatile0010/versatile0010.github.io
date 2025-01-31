@@ -15,6 +15,8 @@ categories:
     <img src="https://github.com/user-attachments/assets/d5bfbe36-359f-41af-85e6-1effa4a28569" alt="image" width="600">
 </div>
 
+<br>
+
 ```
 1. “아.. 이거 쿼리가 너무 느릴 것 같은데…”
 ```

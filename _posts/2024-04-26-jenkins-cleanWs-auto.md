@@ -14,6 +14,7 @@ last_modified_at: now
     <img src="https://github.com/user-attachments/assets/03a7bc85-8930-4bd1-a4eb-cb334b8c6188" alt="image" width="600">
 </div>
 
+<br>
 
 > Jenkins automatically cleans up old workspaces using WorkspaceCleanupThread to manage disk space.
 This happens periodically, even without the cleanWs() command in your pipeline, ensuring efficient disk space usage.

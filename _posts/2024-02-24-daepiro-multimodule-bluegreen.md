@@ -7,11 +7,13 @@ categories:
   - SideProject
 ---
 
+🚛 멀티 모듈 구조로 이사가기!
+
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/16bd6ef5-c515-4ed1-bfb3-9d512d663627" alt="image" width="600">
 </div>
 
-## 🚛 멀티 모듈 구조로 이사가기!
+<br>
 
 > As the project grew, issues such as unpredictable impact of changes, increased management complexity, and frequent code duplication surfaced.
  

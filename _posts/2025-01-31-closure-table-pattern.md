@@ -13,6 +13,8 @@ last_modified_at: now
     <img src="https://github.com/user-attachments/assets/eff90ad8-16ca-4b0f-bfa8-9dfce36c92c1" alt="image" width="600">
 </div>
 
+<br>
+
 **Querying Hierarchical Data Without Recursion!**
 
 When we design a database with parent-child relationships, we often use `parent_id` and `child_id` in each row.  
