@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "I wonder why, I wonder how."
+title                    : "Tech Blog"
 title_separator          : "-"
-subtitle                 : "A journey through everyday wonders." # site tagline that appears below site title in masthead
+subtitle                 : #"" # site tagline that appears below site title in masthead
 name                     : "Jaehyeon Lee"
 description              : "Software Engineer (Backend)"
 url                      : "https://versatile0010.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
